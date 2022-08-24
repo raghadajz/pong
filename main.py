@@ -4,7 +4,7 @@ from paddle import Paddle
 import time
 from scorepong import Score
 
-# Set up the screen.
+# Set up the screen
 screen = Screen()
 screen.setup(800, 600)
 screen.bgcolor('black')
